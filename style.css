@@ -1,0 +1,30 @@
+.first-header{
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    background-color: rgb(119, 172, 59);
+    display:flex;  
+    text-align: center; 
+}
+.gmail image{
+    height: 20px;
+    width: auto;
+    display: flex;
+
+}
+.number{
+    height: 50px;
+    width: 30%;
+}
+.languse{
+    height: 200px;
+    width: 10%;
+    display: flex;
+
+}
+.login{
+    height: 300px;
+    width: 30%;
+    
+
+}
